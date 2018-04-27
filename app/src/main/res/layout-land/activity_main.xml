@@ -27,11 +27,7 @@
                     app:popupTheme="@style/AppTheme.PopupOverlay" />
 
             </android.support.design.widget.AppBarLayout>
-            <ProgressBar
-                android:id="@+id/indeterminateBar"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                />
+          
             <android.support.v7.widget.RecyclerView
                 android:id="@+id/recycler_view_movies"
                 android:scrollbars="vertical"
