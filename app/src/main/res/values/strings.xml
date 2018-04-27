@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movie</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_movie_image">Movie image</string>
+    <string name="PopularMovie">Popular Movie</string>
+    <string name="TopRated">Top Rated Movie</string>
+    <string-array name="order_array">
+        <item>Popular Movie</item>
+        <item>Top Rated</item>
+    </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="placeholder_title">Dragon Ball </string>
+    <string name="label_movie_average_vote">Vote</string>
+    <string name="vote_avarage">8/10</string>
+    <string name="placeholder_date">27.04.2018</string>
+    <string name="retry_connection">Retry To Connect</string>
+    <string name="internet_error">no internet access</string>
+
+</resources>
